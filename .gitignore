@@ -1,0 +1,16 @@
+*.pro.user
+*.user
+CMakeLists.txt.user
+
+
+build/
+build-*/
+debug/
+release/
+*.exe
+*.o
+*.obj
+
+
+.DS_Store
+Thumbs.db
